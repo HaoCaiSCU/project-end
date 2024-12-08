@@ -1,0 +1,78 @@
+[{
+    "_id": {
+      "$oid": "6678276e368842ac0be5aefc"
+    },
+    "quiz_id": "6678084612e9519c4ef260bf",
+    "type": "multiple_choice",
+    "title": "Sample Multiple Choice Question",
+    "points": 20,
+    "question": "What is the capital of France?",
+    "choices": [
+      {
+        "answer": "London",
+        "correct": false,
+        "_id": {
+          "$oid": "667855a289c350a723563946"
+        }
+      },
+      {
+        "answer": "Paris",
+        "correct": true,
+        "_id": {
+          "$oid": "667855a289c350a723563947"
+        }
+      },
+      {
+        "answer": "New York",
+        "correct": false,
+        "_id": {
+          "$oid": "667855a289c350a723563948"
+        }
+      },
+      {
+        "answer": "Dublin",
+        "correct": false,
+        "_id": {
+          "$oid": "667855a289c350a723563949"
+        }
+      },
+      {
+        "answer": "222",
+        "correct": false,
+        "_id": {
+          "$oid": "66785f918dc19d1cc1478c92"
+        }
+      }
+    ],
+    "possible_answers": []
+  },
+  {
+    "_id": {
+      "$oid": "66782774368842ac0be5aefe"
+    },
+    "quiz_id": "6678084612e9519c4ef260bf",
+    "type": "true_false",
+    "title": "Sample True/False Question",
+    "points": 10,
+    "question": "The sky is blue",
+    "is_true": true,
+    "choices": [],
+    "possible_answers": []
+  },
+  {
+    "_id": {
+      "$oid": "6679208edb494ae160c95494"
+    },
+    "quiz_id": "6678084612e9519c4ef260bf",
+    "type": "fill_in_blanks",
+    "title": "sample fill in blanks Question",
+    "points": 20,
+    "question": "What color is sky? What color is grass?",
+    "possible_answers": [
+      "blue",
+      "green"
+    ],
+    "is_true": false,
+    "choices": [],
+    "__v": 0
+  }]
