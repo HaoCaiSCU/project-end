@@ -1,0 +1,55 @@
+[
+    {
+        "course_id": "6669c5efbdae3bcf733b5e36",
+        "title": "Midterm Quiz",
+        "status": true,
+        "quiz_instructions": "Answer all questions within the time limit.",
+        "quiz_type": "Graded Quiz",
+        "points": 100,
+        "assignment_group": "Quizzes",
+        "shuffle_answers": true,
+        "time_limit": 60,
+        "multiple_attempts": false,
+        "how_many_attempts": 1,
+        "show_correct_answers": "After Due Date",
+        "access_code": "12345",
+        "one_question_at_a_time": true,
+        "webcam_required": false,
+        "lock_questions_after_answering": false,
+        "due_date": "2024-07-01T00:00:00.000Z",
+        "available_date": "2024-06-25T00:00:00.000Z",
+        "until_date": "2024-07-01T23:59:59.000Z",
+        "questions": [
+            "60cb7c3b6f99c40015bdbe5b",
+            "60cb7c3b6f99c40015bdbe5c",
+            "60cb7c3b6f99c40015bdbe5d"
+        ]
+    },
+    {
+        "course_id": "6669c5efbdae3bcf733b5e36",
+        "title": "Final Exam",
+        "status": true,
+        "quiz_instructions": "Answer all questions within the time limit.",
+        "quiz_type": "Graded Quiz",
+        "points": 200,
+        "assignment_group": "Exams",
+        "shuffle_answers": true,
+        "time_limit": 120,
+        "multiple_attempts": false,
+        "how_many_attempts": 1,
+        "show_correct_answers": "After Due Date",
+        "access_code": "54321",
+        "one_question_at_a_time": true,
+        "webcam_required": false,
+        "lock_questions_after_answering": false,
+        "due_date": "2024-07-15T00:00:00.000Z",
+        "available_date": "2024-07-10T00:00:00.000Z",
+        "until_date": "2024-07-15T23:59:59.000Z",
+        "questions": [
+            "60cb7c3b6f99c40015bdbe5e",
+            "60cb7c3b6f99c40015bdbe5f",
+            "60cb7c3b6f99c40015bdbe60",
+            "60cb7c3b6f99c40015bdbe61"
+        ]
+    }
+]
