@@ -35,7 +35,8 @@ const QuestionSchema = new mongoose.Schema({
   },
   possible_answers: {
     type: [String],
-    required: function() { return this.type === 'fill_in_blanks'; }
+    required: function() { return this.type === 'fill_in_blanks'; },
+    default: [],
   },
   choices: {
     type: [ChoiceSchema],
